@@ -5,6 +5,7 @@ function App() {
       <h2>LAB-1</h2>
       <p>Ad Soyad: [Osman Kerim Ogutcu]</p>
       <p>Ogrenci No: [230541048]</p>
+      <p>Bolum: Yazilim Muhendisligi</p>    
     </div>
   )
 }
