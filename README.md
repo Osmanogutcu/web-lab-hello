@@ -3,8 +3,8 @@
 Bu proje, Web Tasarimi ve Programlama dersi LAB-1 kapsaminda Vite + React + TypeScript kullanilarak olusturulmustur.
 
 ## Gelistirici
-**Ad Soyad:** [Kendi Adin]
-**Ogrenci No:** [Numaran]
+**Ad Soyad:** Osman Kerim Ögütçü
+**Ogrenci No:** 230541048
 
 ## Erişilebilirlik Testi (Lighthouse)
 
