@@ -33,7 +33,23 @@ function App() {
 
         <section id="iletisim">
           <h2>Iletisim</h2>
-          {/* Form buraya gelecek */}
+          <div className="form-group">
+  <label htmlFor="subject">Konu: </label>
+  <select id="subject" name="subject" required aria-describedby="subject-error">
+    <option value="">-- Seciniz --</option>
+    <option value="is">Is Teklifi</option>
+    <option value="soru">Soru</option>
+    <option value="oneri">Oneri</option>
+  </select>
+  <small id="subject-error" className="error-msg" role="alert"></small>
+</div>
+
+<div className="form-group">
+  <label htmlFor="message">Mesajiniz:</label>
+  <textarea id="message" name="message" rows={5} required minLength={10} aria-describedby="message-error"></textarea>
+  <small id="message-error" className="error-msg" role="alert"></small>
+</div>
+          
         </section>
 
       </main>
