@@ -6,6 +6,12 @@ Bu proje, Web Tasarimi ve Programlama dersi LAB-1 kapsaminda Vite + React + Type
 **Ad Soyad:** [Kendi Adin]
 **Ogrenci No:** [Numaran]
 
+## Erişilebilirlik Testi (Lighthouse)
+
+[cite_start]Bu proje, herkes tarafından kullanılabilir olması için erişilebilirlik (a11y) standartlarına uygun olarak geliştirilmiştir[cite: 161, 162]. [cite_start]Yapılan analiz sonucunda Lighthouse erişilebilirlik puanı 90 ve üzerine çıkarılmıştır[cite: 25, 607].
+
+![Lighthouse Erişilebilirlik Raporu](./lighthouse-report.png)
+
 ## Kullanilan Teknolojiler
 * React 18
 * TypeScript
