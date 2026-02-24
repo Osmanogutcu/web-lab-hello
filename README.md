@@ -4,7 +4,7 @@ Bu proje, Web Tasarimi ve Programlama dersi LAB-1 kapsaminda Vite + React + Type
 
 ## Gelistirici
 **Ad Soyad:** Osman Kerim Ögütçü
-**Ogrenci No:** 230541048
+**Öğrenci No:** 230541048
 
 ## Erişilebilirlik Testi (Lighthouse)
 
